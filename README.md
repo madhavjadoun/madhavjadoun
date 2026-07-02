@@ -1,140 +1,218 @@
 <div align="center">
 
-# Hey 👋, I'm Madhav Pratap Singh
+# Madhav Pratap Singh
 
-### 🚀 Full Stack Developer in Progress | 💻 DSA Enthusiast | ⚛️ React Learner | Always Learning 
+### Full Stack Developer • AI Builder • Java DSA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;DSA+Problem+Solver;Building+Awesome+Projects;Future+Software+Engineer" alt="Typing SVG" />
+Building intelligent web applications with AI, clean architecture, and modern user experiences.
+
+<br>
+
+<a href="https://github.com/madhavjadoun">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
+## Currently Building
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="50%">
 
-### 👨‍💻 About Me
+### 🤖 AI Quiz Generator
 
-- 🌱 Currently learning **React, Backend Development & DSA**
-- 💻 Passionate about building real-world applications
-- 🎯 Goal: Become a top Software Engineer
-- 🚀 Consistently improving through coding and projects
-- ⚡ Love turning ideas into products
+An AI-powered platform that transforms PDFs into intelligent multiple-choice quizzes using semantic retrieval and Google Gemini.
 
-<br clear="right"/>
+**Highlights**
 
----
+- 📄 Smart PDF Processing
+- 🧠 AI MCQ Generation
+- 💬 AI Chat Assistant
+- ⚡ FastAPI Backend
+- 🎨 Next.js + Tailwind CSS
+- 🔐 Supabase Authentication
 
-## 🌐 Connect With Me
+</td>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/madhavjadoun">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
+<td width="50%">
 
 ### 💰 Expense Tracker
 
-🔗 **Live Demo:**  
-https://madhav-expense-tracker.vercel.app
+A modern expense management platform focused on simplicity, analytics, and productivity.
 
-✨ Features:
-- Track daily expenses
-- Add and manage transactions
-- Responsive UI
-- Easy expense monitoring
+**Highlights**
+
+- 📊 Analytics Dashboard
+- 💼 Multi Workspace
+- 🤖 AI Expense Assistant
+- 📈 Budget Tracking
+- 🔒 Secure Authentication
+- 📱 Responsive Design
+
+</td>
+</tr>
+</table>
+
+---
+## Tech Stack
+
+<table>
+<tr>
+<td>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+
+</td>
+
+<td>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+
+</td>
+
+<td>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧪 Upcoming Projects
+## Featured Projects
 
-- Full Stack MERN Application
-- Authentication System
-- Portfolio Website
-- E-Commerce Project
-- AI Powered Project
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Quiz Generator
+
+Generate intelligent quizzes from PDFs using AI.
+
+**Built With**
+
+`Next.js` `FastAPI` `Gemini` `Supabase`
+
+**Key Features**
+
+- AI MCQ Generation
+- Semantic Retrieval
+- OCR Support
+- AI Chat Assistant
+- Quiz Analytics
+
+</td>
+
+<td width="50%">
+
+### 💰 Expense Tracker
+
+A modern platform to manage personal finances.
+
+**Built With**
+
+`React` `Node.js` `MongoDB`
+
+**Key Features**
+
+- Budget Tracking
+- Analytics Dashboard
+- AI Assistant
+- Multi Workspace
+- Secure Authentication
+
+</td>
+
+</tr>
+</table>
+
+> More projects are coming as I continue building and learning.
 
 ---
-
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavjadoun&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavjadoun&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=madhavjadoun&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavjadoun&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=madhavjadoun&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
+## Current Focus
 
-## 🔥 GitHub Streak
+```text
+🧠 Building
+├── AI Quiz Generator
+├── FastAPI Backend
+└── AI Chat Assistant
+
+📚 Learning
+├── React Ecosystem
+├── System Design
+└── Advanced DSA (Java)
+
+🎯 2026 Goals
+├── Ship production-ready AI applications
+├── Solve 500+ DSA problems
+├── Contribute to Open Source
+└── Grow as a Full Stack Engineer
+```
+
+---
+## Let's Connect
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=madhavjadoun&theme=tokyonight&hide_border=true"/>
+
+<a href="https://github.com/madhavjadoun">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
+
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavjadoun&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=madhavjadoun&theme=tokyonight&row=1&column=7&margin-w=15"/>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-✅ Master React
-
-✅ Learn Backend Development
-
-✅ Build 5+ Full Stack Projects
-
-✅ Solve 500+ DSA Problems
-
-✅ Contribute to Open Source
-
----
-
-## 💡 Quote I Follow
-
-> "Consistency beats talent when talent doesn't work hard."
 
 ---
 
 <div align="center">
 
-### 👀 Profile Visitors
+### Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=madhavjadoun&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<br><br>
-
-### ⭐ Thanks For Visiting My Profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7B68EE&height=120&section=footer"/>
+*Building one project at a time.*
 
 </div>
