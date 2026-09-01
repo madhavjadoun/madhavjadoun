@@ -1,12 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Madhav+Pratap+Singh;Full+Stack+Developer;AI+Builder;Java+DSA+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00C2FF&text=Madhav%20Pratap%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Java%20DSA&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
+<!-- Profile Photo -->
+
+<img
+  src="https://github.com/madhavjadoun.png"
+  width="180"
+  height="180"
+  alt="Madhav Pratap Singh"
+/>
+
+<br><br>
+
+<!-- Animated Introduction -->
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Builder;Java+DSA+Enthusiast;Building+Something+New+Every+Day" />
+
+<br><br>
+
 <p>
-Building intelligent web applications with AI,<br>
-clean architecture and modern user experiences.
+  Building intelligent web applications with AI,<br>
+  clean architecture and modern user experiences.
 </p>
 
 <br>
@@ -14,6 +31,8 @@ clean architecture and modern user experiences.
 <a href="https://github.com/madhavjadoun">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -29,25 +48,32 @@ clean architecture and modern user experiences.
 
 ## 🚀 Currently Building
 
+<div align="center">
+
 <table>
 <tr>
 <td width="100%" align="center">
 
-### 📝 NoteX
+# 📝 NoteX
 
-**AI-powered notes generator for smarter and faster learning.**
+### AI-powered notes generator for smarter and faster learning.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb">
 
 <br><br>
 
-`AI Note Generation` • `Smart Summaries` • `Clean UI` • `MERN Stack`
+`AI Note Generation` &nbsp; • &nbsp;
+`Smart Summaries` &nbsp; • &nbsp;
+`Clean UI` &nbsp; • &nbsp;
+`MERN Stack`
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -58,9 +84,13 @@ clean architecture and modern user experiences.
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🤖 AI Quiz Generator
 
-AI-powered platform that transforms PDFs into intelligent MCQ quizzes using semantic retrieval and Google Gemini.
+</div>
+
+AI-powered platform that transforms PDFs into intelligent multiple-choice quizzes using semantic retrieval and Google Gemini.
 
 **Highlights**
 
@@ -79,7 +109,11 @@ AI-powered platform that transforms PDFs into intelligent MCQ quizzes using sema
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 💰 Expense Tracker
+
+</div>
 
 Modern expense management platform focused on simplicity, analytics and productivity.
 
@@ -105,53 +139,39 @@ Modern expense management platform focused on simplicity, analytics and producti
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-
-<td width="50%" align="center">
+<div align="center">
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind">
 
-</td>
-
-<td width="50%" align="center">
+<br><br>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi">
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<br><br>
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase">
 
-</td>
-
-<td width="50%" align="center">
+<br><br>
 
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🧠 Current Focus
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 
 <th>🚀 Building</th>
@@ -185,13 +205,18 @@ Modern expense management platform focused on simplicity, analytics and producti
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=madhavjadoun&theme=transparent&hide_border=true">
+<img
+  src="https://streak-stats.demolab.com?user=madhavjadoun&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -204,35 +229,59 @@ Modern expense management platform focused on simplicity, analytics and producti
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
 💻
+
 <br>
+
 <b>Full Stack Developer</b>
 
+<br>
+
+Building modern web applications
+
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 🤖
+
 <br>
-<b>AI Application Builder</b>
+
+<b>AI Builder</b>
+
+<br>
+
+Creating AI-powered products
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ☕
+
 <br>
+
 <b>Java + DSA</b>
+
+<br>
+
+Solving problems consistently
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 🚀
+
 <br>
+
 <b>Always Building</b>
+
+<br>
+
+Learning by shipping projects
 
 </td>
 
@@ -248,17 +297,21 @@ Modern expense management platform focused on simplicity, analytics and producti
 <div align="center">
 
 <a href="https://github.com/madhavjadoun">
-<img src="https://skillicons.dev/icons?i=github" width="52">
+<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub">
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326">
-<img src="https://skillicons.dev/icons?i=linkedin" width="52">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer">
+<b>Let's build something awesome together! 🚀</b>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00C2FF&section=footer" width="100%">
 
 </div>
