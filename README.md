@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Madhav+Pratap+Singh;Full+Stack+Developer;AI+Builder;Java+DSA+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Madhav+Pratap+Singh;Full+Stack+Developer;AI+Builder;Java+DSA+Enthusiast" />
 
-<br/>
+<br>
 
 <p>
-  Building intelligent web applications with AI,<br/>
-  clean architecture and modern user experiences.
+Building intelligent web applications with AI,<br>
+clean architecture and modern user experiences.
 </p>
 
-<br/>
+<br>
 
 <a href="https://github.com/madhavjadoun">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=madhavjadoun&label=Profile%20Views&color=00C2FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=madhavjadoun&label=Profile%20Views&color=00C2FF&style=flat-square">
 
 </div>
 
@@ -29,29 +29,25 @@
 
 ## 🚀 Currently Building
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="100%">
+<td width="100%" align="center">
 
 ### 📝 NoteX
 
 **AI-powered notes generator for smarter and faster learning.**
 
-<br/>
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express">
 
-<br/><br/>
+<br><br>
 
 `AI Note Generation` • `Smart Summaries` • `Clean UI` • `MERN Stack`
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -64,9 +60,9 @@
 
 ### 🤖 AI Quiz Generator
 
-AI-powered platform that converts PDFs into intelligent MCQ quizzes using semantic retrieval and Google Gemini.
+AI-powered platform that transforms PDFs into intelligent MCQ quizzes using semantic retrieval and Google Gemini.
 
-**Features**
+**Highlights**
 
 - 📄 Smart PDF Processing
 - 🧠 AI MCQ Generation
@@ -75,7 +71,7 @@ AI-powered platform that converts PDFs into intelligent MCQ quizzes using semant
 - 📊 Quiz Analytics
 - 🔐 Supabase Authentication
 
-**Stack**
+**Built With**
 
 `Next.js` `FastAPI` `Gemini` `Supabase`
 
@@ -85,9 +81,9 @@ AI-powered platform that converts PDFs into intelligent MCQ quizzes using semant
 
 ### 💰 Expense Tracker
 
-Modern expense management platform designed for simplicity, analytics and productivity.
+Modern expense management platform focused on simplicity, analytics and productivity.
 
-**Features**
+**Highlights**
 
 - 📊 Analytics Dashboard
 - 💼 Multi Workspace
@@ -96,7 +92,7 @@ Modern expense management platform designed for simplicity, analytics and produc
 - 🔒 Secure Authentication
 - 📱 Responsive Design
 
-**Stack**
+**Built With**
 
 `React` `Node.js` `MongoDB`
 
@@ -109,39 +105,85 @@ Modern expense management platform designed for simplicity, analytics and produc
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind">
+
+</td>
+
+<td width="50%" align="center">
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase">
+
+</td>
+
+<td width="50%" align="center">
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🧠 Current Focus
 
-<div align="center">
+<table align="center">
+<tr>
 
-| 🚀 Building | 📚 Learning | 🎯 Goals |
-|:---:|:---:|:---:|
-| AI Applications | System Design | Production Apps |
-| Full Stack Projects | Advanced DSA — Java | 500+ DSA Problems |
-| Backend Systems | AI Engineering | Open Source |
+<th>🚀 Building</th>
+<th>📚 Learning</th>
+<th>🎯 Goals</th>
 
-</div>
+</tr>
+
+<tr>
+
+<td align="center">AI Applications</td>
+<td align="center">AI Automation</td>
+<td align="center">Production Apps</td>
+
+</tr>
+
+<tr>
+
+<td align="center">Full Stack Projects</td>
+<td align="center">Advanced DSA — Java</td>
+<td align="center">500+ DSA Problems</td>
+
+</tr>
+
+<tr>
+
+<td align="center">Backend Systems</td>
+<td align="center">AI Engineering</td>
+<td align="center">Open Source</td>
+
+</tr>
+</table>
 
 ---
 
@@ -149,25 +191,7 @@ Modern expense management platform designed for simplicity, analytics and produc
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=madhavjadoun&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavjadoun&layout=compact&theme=transparent&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=madhavjadoun&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/madhavjadoun/madhavjadoun/output/github-contribution-grid-snake.svg" />
+<img src="https://streak-stats.demolab.com?user=madhavjadoun&theme=transparent&hide_border=true">
 
 </div>
 
@@ -175,20 +199,66 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavjadoun
 
 ## 🌱 A Little About Me
 
-```text
-💻 Full Stack Developer
-🤖 Building AI-powered applications
-☕ Java + DSA enthusiast
-🏗️ Interested in System Design
-🚀 Always building something new
+<div align="center">
 
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/madhavjadoun"> <img src="https://skillicons.dev/icons?i=github" width="52"/> </a>
+<table>
+<tr>
 
-    
+<td align="center">
 
-<a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326"> <img src="https://skillicons.dev/icons?i=linkedin" width="52"/> </a>
+💻
+<br>
+<b>Full Stack Developer</b>
 
-<br/><br/>
+</td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/> </div>
+<td align="center">
+
+🤖
+<br>
+<b>AI Application Builder</b>
+
+</td>
+
+<td align="center">
+
+☕
+<br>
+<b>Java + DSA</b>
+
+</td>
+
+<td align="center">
+
+🚀
+<br>
+<b>Always Building</b>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/madhavjadoun">
+<img src="https://skillicons.dev/icons?i=github" width="52">
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/madhav-pratap-singh-459641326">
+<img src="https://skillicons.dev/icons?i=linkedin" width="52">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer">
+
+</div>
